@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0173f9f7-312f-434f-8daa-64bbb59d7c17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/caltech/cs2/datastructures/TrieMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/caltech/cs2/datastructures/TrieMap.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1Ux9720xsX4jTI9Qbj1lgL84yNw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/openjdk-11.jdk/Contents/Home/lib/src.zip!/jdk.httpserver/com/sun/net/httpserver/HttpExchange.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548914405399" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.caltech.cs2.project04" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.caltech.cs2.datastructures" />
+      <recent name="edu.caltech.cs2.interfaces" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.A Tests">
+    <configuration name="Movie Autocomplete" type="Application" factoryName="Application">
+      <output_file path="$USER_HOME$/Downloads/randomoutput.log" is_save="true" />
+      <option name="MAIN_CLASS_NAME" value="edu.caltech.cs2.project04.Main" />
+      <module name="project04-autocomplete" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A Tests" type="JUnit" factoryName="JUnit">
+      <module name="project04-autocomplete" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B Tests" type="JUnit" factoryName="JUnit">
+      <module name="project04-autocomplete" />
+      <option name="MAIN_CLASS_NAME" value="B" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="C" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D Tests" type="JUnit" factoryName="JUnit">
+      <module name="project04-autocomplete" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="D" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Movie Autocomplete" />
+      <item itemvalue="JUnit.A Tests" />
+      <item itemvalue="JUnit.B Tests" />
+      <item itemvalue="JUnit.C Tests" />
+      <item itemvalue="JUnit.D Tests" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef739733-a82a-41f9-936d-0408cf0a0a81" name="Default Changelist" comment="" />
+      <created>1543795217759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543795217759</updated>
+      <workItem from="1543795220613" duration="5624000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial file commit">
+      <created>1576490164558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576490164558</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implementing basic IDictionary Tests">
+      <created>1576613342881</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576613342881</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Replaced unit tests with in progress sanity/stress tests">
+      <created>1576664027300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576664027300</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added stress tests">
+      <created>1576796537828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576796537828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Stress tests for ITrieMap complete">
+      <created>1576821533637</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576821533637</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed class organization issue with objects not necessarily being iterables. Moved data generation to ITrieMapTests.">
+      <created>1576833413862</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576833413862</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Debugging tests">
+      <created>1576839646802</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576839646802</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ITrieMap sanity tests">
+      <created>1576875676353</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576875676353</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Finished base tests">
+      <created>1576877448850</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576877448850</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Test formatting and organization">
+      <created>1576878235631</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1576878235631</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added test ordering">
+      <created>1576878639614</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576878639614</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Basic cleanup">
+      <created>1576878967965</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1576878967965</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fix regex for import restrictions">
+      <created>1579904759359</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579904759359</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Change tests slightly">
+      <created>1580195216185</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580195216185</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/caltech/cs2/datastructures/ArrayDeque.java&#10;#&#9;src/edu/caltech/cs2/datastructures/LinkedDeque.java&#10;#&#9;src/edu/caltech/cs2/project04/HashMovieAutoCompleter.java">
+      <created>1580722176968</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580722176968</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/caltech/cs2/datastructures/ArrayDeque.java&#10;#&#9;src/edu/caltech/cs2/datastructures/LinkedDeque.java&#10;#&#9;src/edu/caltech/cs2/project04/HashMovieAutoCompleter.java">
+      <created>1580722234865</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580722234865</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/caltech/cs2/datastructures/ArrayDeque.java&#10;#&#9;src/edu/caltech/cs2/datastructures/LinkedDeque.java&#10;#&#9;src/edu/caltech/cs2/project04/HashMovieAutoCompleter.java">
+      <created>1580780971038</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580780971038</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/caltech/cs2/datastructures/ArrayDeque.java&#10;#&#9;src/edu/caltech/cs2/datastructures/LinkedDeque.java&#10;#&#9;src/edu/caltech/cs2/project04/HashMovieAutoCompleter.java">
+      <created>1580796302842</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1580796302842</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/caltech/cs2/datastructures/ArrayDeque.java&#10;#&#9;src/edu/caltech/cs2/datastructures/LinkedDeque.java&#10;#&#9;src/edu/caltech/cs2/project04/HashMovieAutoCompleter.java">
+      <created>1580800244707</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580800244707</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/caltech/cs2/datastructures/ArrayDeque.java&#10;#&#9;src/edu/caltech/cs2/datastructures/LinkedDeque.java&#10;#&#9;src/edu/caltech/cs2/project04/HashMovieAutoCompleter.java">
+      <created>1580800492035</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1580800492035</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/caltech/cs2/datastructures/ArrayDeque.java&#10;#&#9;src/edu/caltech/cs2/datastructures/LinkedDeque.java&#10;#&#9;src/edu/caltech/cs2/project04/HashMovieAutoCompleter.java">
+      <created>1580800510533</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1580800510533</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5624000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial file commit" />
+    <MESSAGE value="Implementing basic IDictionary Tests" />
+    <MESSAGE value="Replaced unit tests with in progress sanity/stress tests" />
+    <MESSAGE value="Added stress tests" />
+    <MESSAGE value="Stress tests for ITrieMap complete" />
+    <MESSAGE value="Fixed class organization issue with objects not necessarily being iterables. Moved data generation to ITrieMapTests." />
+    <MESSAGE value="Debugging tests" />
+    <MESSAGE value="ITrieMap sanity tests" />
+    <MESSAGE value="Finished base tests" />
+    <MESSAGE value="Test formatting and organization" />
+    <MESSAGE value="Added test ordering" />
+    <MESSAGE value="Basic cleanup" />
+    <MESSAGE value="Fix regex for import restrictions" />
+    <MESSAGE value="Change tests slightly" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/caltech/cs2/datastructures/ArrayDeque.java&#10;#&#9;src/edu/caltech/cs2/datastructures/LinkedDeque.java&#10;#&#9;src/edu/caltech/cs2/project04/HashMovieAutoCompleter.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/edu/caltech/cs2/datastructures/ArrayDeque.java&#10;#&#9;src/edu/caltech/cs2/datastructures/LinkedDeque.java&#10;#&#9;src/edu/caltech/cs2/project04/HashMovieAutoCompleter.java" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2281" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576878269444">
+      <screen x="1920" y="-150" width="2101" height="1142" />
+    </state>
+    <state x="379" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1576663379869" />
+    <state x="2281" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576878269444" />
+    <state x="2013" y="-57" width="1915" height="956" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1576841436100">
+      <screen x="1920" y="-150" width="2101" height="1142" />
+    </state>
+    <state x="2013" y="-57" width="1915" height="956" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576841436100" />
+    <state x="2776" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1576832748382">
+      <screen x="1920" y="-150" width="2101" height="1142" />
+    </state>
+    <state x="2776" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576832748382" />
+    <state x="593" y="283" width="393" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580194891432">
+      <screen x="0" y="0" width="1575" height="846" />
+    </state>
+    <state x="593" y="283" width="393" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580194891432" />
+    <state x="2596" y="159" width="977" height="732" key="#xdebugger.XInspectDialog" timestamp="1576839500036">
+      <screen x="1920" y="-150" width="2101" height="1142" />
+    </state>
+    <state x="2596" y="159" width="977" height="732" key="#xdebugger.XInspectDialog/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576839500036" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1580800509776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580108228313" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1580800509776" />
+    <state x="0" y="18" key="CommitChangelistDialog2/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580195466913" />
+    <state x="1920" y="-126" key="CommitChangelistDialog2/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576878967530" />
+    <state x="569" y="165" key="FileChooserDialogImpl" timestamp="1576489747465">
+      <screen x="0" y="0" width="1575" height="846" />
+    </state>
+    <state x="569" y="165" key="FileChooserDialogImpl/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1576489747465" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1580802478906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="257" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580108195650" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580802478906" />
+    <state width="1532" height="101" key="GridCell.Tab.0.bottom/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580195387247" />
+    <state width="2057" height="326" key="GridCell.Tab.0.bottom/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576879498731" />
+    <state width="1532" height="115" key="GridCell.Tab.0.bottom/0.0.1575.846@0.0.1575.846" timestamp="1576452438532" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1580802478906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="257" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580108195650" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580802478906" />
+    <state width="1532" height="101" key="GridCell.Tab.0.center/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580195387247" />
+    <state width="2057" height="326" key="GridCell.Tab.0.center/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576879498731" />
+    <state width="1532" height="115" key="GridCell.Tab.0.center/0.0.1575.846@0.0.1575.846" timestamp="1576452438531" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1580802478906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="257" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580108195650" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580802478906" />
+    <state width="1532" height="101" key="GridCell.Tab.0.left/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580195387247" />
+    <state width="2057" height="326" key="GridCell.Tab.0.left/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576879498730" />
+    <state width="1532" height="115" key="GridCell.Tab.0.left/0.0.1575.846@0.0.1575.846" timestamp="1576452438531" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1580802478906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="257" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580108195650" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580802478906" />
+    <state width="1532" height="101" key="GridCell.Tab.0.right/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580195387247" />
+    <state width="2057" height="326" key="GridCell.Tab.0.right/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576879498731" />
+    <state width="1532" height="115" key="GridCell.Tab.0.right/0.0.1575.846@0.0.1575.846" timestamp="1576452438531" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1580796731453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580796731453" />
+    <state width="2057" height="326" key="GridCell.Tab.1.bottom/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576879498731" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1580796731453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580796731453" />
+    <state width="2057" height="326" key="GridCell.Tab.1.center/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576879498731" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1580796731453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580796731453" />
+    <state width="2057" height="326" key="GridCell.Tab.1.left/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576879498731" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1580796731453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580796731453" />
+    <state width="2057" height="326" key="GridCell.Tab.1.right/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576879498731" />
+    <state x="2480" y="63" key="SettingsEditor" timestamp="1576489833366">
+      <screen x="1920" y="-150" width="2101" height="1142" />
+    </state>
+    <state x="2480" y="63" key="SettingsEditor/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576489833366" />
+    <state x="240" y="244" key="Vcs.Push.Dialog.v2" timestamp="1580800512496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="200" y="149" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579904768987" />
+    <state x="240" y="244" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1580800512496" />
+    <state x="246" y="251" key="Vcs.Push.Dialog.v2/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580195217547" />
+    <state x="2248" y="189" key="Vcs.Push.Dialog.v2/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576878969114" />
+    <state width="1057" height="578" key="XDebugger.FullValuePopup" timestamp="1576836254868">
+      <screen x="1920" y="-150" width="2101" height="1142" />
+    </state>
+    <state width="1057" height="578" key="XDebugger.FullValuePopup/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576836254868" />
+    <state x="606" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580194688998">
+      <screen x="0" y="0" width="1575" height="846" />
+    </state>
+    <state x="492" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1580107869980" />
+    <state x="606" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580194688998" />
+    <state x="2713" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1576878574355">
+      <screen x="1920" y="-150" width="2101" height="1142" />
+    </state>
+    <state x="2713" y="41" key="refactoring.ChangeSignatureDialog/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576878574355" />
+    <state x="440" y="162" width="672" height="661" key="search.everywhere.popup" timestamp="1580704320800">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="440" y="162" width="672" height="661" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580704320800" />
+    <state x="451" y="167" width="672" height="678" key="search.everywhere.popup/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1576815579365" />
+    <state x="2522" y="75" width="897" height="916" key="search.everywhere.popup/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1576877055339" />
+  </component>
+</project>

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30253f76-3bec-4105-abbd-56ec3c2c3114" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="107" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\ethan\Documents\devel\cs2-wi20-project03-fix\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TiQOxb43nUvszkonuBQNG9h4pe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea/libraries" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39655173" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ethan\Documents\devel\cs2-wi20-project03-fix" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ethan\Documents\devel\cs2-wi20-project03-fix\.idea\libraries" />
+      <recent name="C:\Users\ethan\Documents\devel\cs2-wi20-project03-fix" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.C Tests">
+    <configuration name="A Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayDequeTests" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="project03-guitar" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:edu.caltech.cs2.datastructures.ArrayDequeTests]" />
+      </uniqueIds>
+      <tag value="C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.C Tests" />
+      <item itemvalue="JUnit.B Tests" />
+      <item itemvalue="JUnit.A Tests" />
+      <item itemvalue="JUnit.ArrayDequeTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArrayDequeTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30253f76-3bec-4105-abbd-56ec3c2c3114" name="Default Changelist" comment="" />
+      <created>1573940407577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573940407577</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added base project 03 code in own repo">
+      <created>1573940654553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573940654553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added base project 03 code in own repo">
+      <created>1573950841802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573950841802</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Moved Collection tests to abstract test file">
+      <created>1573968665825</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573968665825</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Moved Deque tests to abstract test file">
+      <created>1574050526957</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574050526957</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Switched to interfaces">
+      <created>1574051797218</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574051797218</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Moved Queue tests to interface">
+      <created>1574053651480</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574053651480</updated>
+    </task>
+    <task id="LOCAL-00007" summary="typo">
+      <created>1574053715885</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574053715885</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Switched LinkedDeque to new test layout">
+      <created>1574054307935</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574054307935</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Changed CircularArrayFixedSizeQueue to use interface testing">
+      <created>1575677829010</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575677829010</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Moved ordering for C tests to constants file">
+      <created>1575767108059</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575767108059</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Moved B tests to use constants ordering">
+      <created>1575767522232</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575767522232</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Move A tests to use constants ordering">
+      <created>1575767882620</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575767882620</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added libraries">
+      <created>1579045977816</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579045977816</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Refactor test creation of guitarstring and queue access">
+      <created>1579046251156</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1579046251156</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Refactor test creation of guitarstring and queue access">
+      <created>1580305250796</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580305250796</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Refactor test creation of guitarstring and queue access">
+      <created>1580305345913</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580305345913</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+    <MESSAGE value="Added base project 03 code in own repo" />
+    <MESSAGE value="Moved Collection tests to abstract test file" />
+    <MESSAGE value="Moved Deque tests to abstract test file" />
+    <MESSAGE value="Switched to interfaces" />
+    <MESSAGE value="Moved Queue tests to interface" />
+    <MESSAGE value="typo" />
+    <MESSAGE value="Switched LinkedDeque to new test layout" />
+    <MESSAGE value="Changed CircularArrayFixedSizeQueue to use interface testing" />
+    <MESSAGE value="Moved ordering for C tests to constants file" />
+    <MESSAGE value="Moved B tests to use constants ordering" />
+    <MESSAGE value="Move A tests to use constants ordering" />
+    <MESSAGE value="Added libraries" />
+    <MESSAGE value="Refactor test creation of guitarstring and queue access" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor test creation of guitarstring and queue access" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2577" y="87" key="#LinkedDequeTests" timestamp="1575768356081">
+      <screen x="1920" y="-150" width="2101" height="1142" />
+    </state>
+    <state x="2577" y="87" key="#LinkedDequeTests/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1575768356081" />
+    <state x="655" y="202" key="#Project_Structure" timestamp="1579830707230">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="655" y="202" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1579830707230" />
+    <state x="2426" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575769477803">
+      <screen x="1920" y="-150" width="2101" height="1142" />
+    </state>
+    <state x="2426" y="76" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1575769477803" />
+    <state x="644" y="123" width="823" height="827" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580304620860">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="644" y="123" width="823" height="827" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1580304620860" />
+    <state x="906" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579830699213">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="906" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1579830699213" />
+    <state x="452" y="23" key="CommitChangelistDialog2" timestamp="1580305345805">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1579046250421" />
+    <state x="423" y="18" key="CommitChangelistDialog2/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1575677828411" />
+    <state x="2484" y="-126" key="CommitChangelistDialog2/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1575769511780" />
+    <state x="452" y="23" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1580305345805" />
+    <state width="981" height="280" key="GridCell.Tab.0.bottom" timestamp="1580305230940">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579045981456" />
+    <state width="2057" height="284" key="GridCell.Tab.0.bottom/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1575769472181" />
+    <state width="981" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1580305230940" />
+    <state width="981" height="280" key="GridCell.Tab.0.center" timestamp="1580305230939">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579045981456" />
+    <state width="2057" height="284" key="GridCell.Tab.0.center/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1575769472180" />
+    <state width="981" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1580305230939" />
+    <state width="981" height="280" key="GridCell.Tab.0.left" timestamp="1580305230939">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579045981456" />
+    <state width="2057" height="284" key="GridCell.Tab.0.left/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1575769472180" />
+    <state width="981" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1580305230939" />
+    <state width="981" height="280" key="GridCell.Tab.0.right" timestamp="1580305230940">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579045981456" />
+    <state width="2057" height="284" key="GridCell.Tab.0.right/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1575769472181" />
+    <state width="981" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1580305230940" />
+    <state width="981" height="345" key="GridCell.Tab.1.bottom" timestamp="1579832382365">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="981" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1579832382365" />
+    <state width="981" height="345" key="GridCell.Tab.1.center" timestamp="1579832382364">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="981" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1579832382364" />
+    <state width="981" height="345" key="GridCell.Tab.1.left" timestamp="1579832382364">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="981" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1579832382364" />
+    <state width="981" height="345" key="GridCell.Tab.1.right" timestamp="1579832382365">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="981" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1579832382365" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1579045772942">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579045772942" />
+    <state x="406" y="213" key="Vcs.Push.Dialog.v2" timestamp="1580305354647">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="309" y="126" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1579046411262" />
+    <state x="381" y="156" key="Vcs.Push.Dialog.v2/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1575677831175" />
+    <state x="2428" y="61" key="Vcs.Push.Dialog.v2/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1575767884006" />
+    <state x="406" y="213" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1580305354647" />
+    <state x="751" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1580176565828">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="751" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1580176565828" />
+    <state x="396" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579045770911">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1579045770911" />
+    <state x="2728" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575769519844">
+      <screen x="1920" y="-150" width="2101" height="1142" />
+    </state>
+    <state x="606" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1575753059313" />
+    <state x="2728" y="309" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1575.846/1920.-150.2101.1142@1920.-150.2101.1142" timestamp="1575769519844" />
+    <state x="835" y="150" key="refactoring.ChangeSignatureDialog" timestamp="1580271728801">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="835" y="150" key="refactoring.ChangeSignatureDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1580271728801" />
+    <state x="720" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1579847754852">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="720" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1579847754852" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/project03_jp4rk$C_Tests.ic" NAME="C Tests Coverage Results" MODIFIED="1579850384499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

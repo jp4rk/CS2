@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="565d381a-53db-4c7e-9f71-6350a8bcec73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/caltech/cs2/textgenerator/NGramMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/caltech/cs2/textgenerator/NGramMap.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="project05-jp4rk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1XK347YIxKapXIO24KVytvTC4y5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/edu/caltech/cs2/datastructures" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/edu/caltech/cs2/datastructures" />
+      <recent name="C:\Users\ethan\Documents\devel\project05\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.B Tests">
+    <configuration name="A Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A+ Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="A+" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChainingHashDictionaryTests.stressTestIDictionaryNoRemove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project05-markov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.caltech.cs2.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.caltech.cs2.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="edu.caltech.cs2.datastructures.ChainingHashDictionaryTests" />
+      <option name="METHOD_NAME" value="stressTestIDictionaryNoRemove(int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveToFrontDictionaryTests" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="project05-markov" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:edu.caltech.cs2.datastructures.MoveToFrontDictionaryTests]" />
+      </uniqueIds>
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.A+ Tests" />
+      <item itemvalue="JUnit.A Tests" />
+      <item itemvalue="JUnit.B Tests" />
+      <item itemvalue="JUnit.ChainingHashDictionaryTests.stressTestIDictionaryNoRemove" />
+      <item itemvalue="JUnit.MoveToFrontDictionaryTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MoveToFrontDictionaryTests" />
+        <item itemvalue="JUnit.ChainingHashDictionaryTests.stressTestIDictionaryNoRemove" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="565d381a-53db-4c7e-9f71-6350a8bcec73" name="Default Changelist" comment="" />
+      <created>1580780764689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580780764689</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add test configs and external libraries">
+      <created>1580780859699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580780859699</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add test configs and external libraries">
+      <created>1581538078996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581538078996</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add test configs and external libraries">
+      <created>1581538394778</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581538394778</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add test configs and external libraries">
+      <created>1581578028161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581578028161</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add test configs and external libraries">
+      <created>1581578078460</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581578078460</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add test configs and external libraries">
+      <created>1581578103994</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581578103994</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add test configs and external libraries">
+      <created>1581578176382</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581578176382</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add test configs and external libraries">
+      <created>1581578349606</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581578349606</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add test configs and external libraries">
+      <created>1581578450081</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1581578450081</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add test configs and external libraries">
+      <created>1581578757813</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581578757813</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add test configs and external libraries">
+      <created>1581579028477</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581579028477</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add test configs and external libraries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add test configs and external libraries" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="247" key="#MoveToFrontDictionaryTests" timestamp="1581398864137">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="390" y="247" key="#MoveToFrontDictionaryTests/0.23.1680.1027@0.23.1680.1027" timestamp="1581398864137" />
+    <state x="275" y="202" key="#Project_Structure" timestamp="1581302982964">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="275" y="202" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1581302982964" />
+    <state x="243" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580781974083">
+      <screen x="0" y="0" width="1575" height="846" />
+    </state>
+    <state x="243" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580781974083" />
+    <state x="264" y="123" width="823" height="827" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581399788422">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="264" y="123" width="823" height="827" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581399788422" />
+    <state x="326" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1581314419334">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="326" y="253" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1581314419334" />
+    <state x="526" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581302974319">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="526" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581302974319" />
+    <state x="482" y="45" key="CommitChangelistDialog2" timestamp="1581579028342">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="452" y="18" key="CommitChangelistDialog2/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580780859301" />
+    <state x="482" y="45" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1581579028342" />
+    <state width="1528" height="280" key="GridCell.Tab.0.bottom" timestamp="1581578408875">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1528" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581578408875" />
+    <state width="1528" height="280" key="GridCell.Tab.0.center" timestamp="1581578408874">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1528" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581578408874" />
+    <state width="1528" height="280" key="GridCell.Tab.0.left" timestamp="1581578408873">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1528" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581578408873" />
+    <state width="1528" height="280" key="GridCell.Tab.0.right" timestamp="1581578408874">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1528" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581578408874" />
+    <state x="406" y="212" key="Vcs.Push.Dialog.v2" timestamp="1581579030004">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="381" y="156" key="Vcs.Push.Dialog.v2/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580780862209" />
+    <state x="406" y="212" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1581579030004" />
+    <state x="494" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1581570696960">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="494" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581570696960" />
+    <state x="606" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580781817797">
+      <screen x="0" y="0" width="1575" height="846" />
+    </state>
+    <state x="606" y="340" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1575.846/1920.-150.2101.1142@0.0.1575.846" timestamp="1580781817797" />
+  </component>
+</project>
